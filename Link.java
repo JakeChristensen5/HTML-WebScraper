@@ -1,12 +1,4 @@
-// --== CS400 File Header Information ==--
-// Individual Code: Cooler WikiGame Project 3, red group DE team
-// Name: Jake Christensen
-// Email: jrchristens2@wisc.edu
-// Team: DE
-// TA: April
-// Lecturer: Florian
-// Notes to Grader: Changed a couple of things revolving around the interfaces after noticing that there were
-//some complications when implementing.
+
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
